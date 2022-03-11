@@ -8,7 +8,7 @@ https://github.com/shannpersand/comic-shanns
 https://github.com/shannpersand/comic-shanns/pull/13
 https://github.com/dtinth/comic-mono-font
 
-![](files/example.png)
+![](example.png)
 
 ![](https://repository-images.githubusercontent.com/164606802/cd83d680-894c-11e9-83f7-c353c70df1cb)
 
