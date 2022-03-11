@@ -14,6 +14,8 @@ https://github.com/dtinth/comic-mono-font
 
 # INSTALLERING
 
+Last ned .tff-filene.
+
 På mac installer tff fila via Font Book. På andre OS installer den slik som du ellers installererer fonter.
 
 # UTVIKLING
