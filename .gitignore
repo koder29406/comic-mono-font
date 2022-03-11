@@ -2,3 +2,4 @@ vendor
 *.pyc
 _site
 .DS_Store
+.vscode
