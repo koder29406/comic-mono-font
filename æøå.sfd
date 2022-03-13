@@ -8,8 +8,8 @@ Version: 1.0
 ItalicAngle: 0
 UnderlinePosition: 0
 UnderlineWidth: 0
-Ascent: 1638
-Descent: 410
+Ascent: 750
+Descent: 250
 InvalidEm: 0
 sfntRevision: 0x00000000
 LayerCount: 2
@@ -22,7 +22,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1608751085
-ModificationTime: 1646965984
+ModificationTime: 1647207535
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -93,6 +93,7 @@ BeginChars: 65543 6
 StartChar: Aring
 Encoding: 197 197 0
 Width: 550
+VWidth: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -158,6 +159,7 @@ EndChar
 StartChar: AE
 Encoding: 198 198 1
 Width: 550
+VWidth: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -252,6 +254,7 @@ EndChar
 StartChar: aring
 Encoding: 229 229 2
 Width: 550
+VWidth: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -330,6 +333,7 @@ EndChar
 StartChar: ae
 Encoding: 230 230 3
 Width: 550
+VWidth: 2048
 GlyphClass: 2
 Flags: W
 LayerCount: 2
@@ -412,6 +416,7 @@ EndChar
 StartChar: Oslash
 Encoding: 216 216 4
 Width: 550
+VWidth: 2048
 Flags: W
 LayerCount: 2
 Fore
@@ -479,6 +484,7 @@ EndChar
 StartChar: oslash
 Encoding: 248 248 5
 Width: 550
+VWidth: 2048
 Flags: W
 LayerCount: 2
 Fore
